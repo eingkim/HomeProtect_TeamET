@@ -3,6 +3,8 @@ IoT Team Project of Erica Technologists.
 
 CamSecurity: Python codes for Raspberry Pi, Ubuntu. - Detecting the Intruder.
 
+IR_scan: The codes to get raw data about IR signals.
+
 door: Arduino code for control the locker of the front door.
 
 ir_web: Arduino code for sending the signal to the air conditioner to turn it on/off.
